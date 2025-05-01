@@ -31,7 +31,7 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/Paulo19961944/Baixar-Youtube-Termux.git
-cd youtube-termux-downloader
+cd Baixar-Youtube-Termux
 ```
 
 ### Dê permissão de execução:
