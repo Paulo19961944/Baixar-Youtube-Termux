@@ -45,13 +45,4 @@ echo -e "${CYAN}Arquivo detectado: $FILE${NC}"
 mv "$FILE" /sdcard/Download/
 echo -e "${GREEN}Arquivo movido para: /sdcard/Download/${NC}"
 
-# Deseja abrir o gerenciador de arquivos?
-echo -e "${CYAN}Deseja abrir a pasta onde o arquivo foi salvo? (s/n)${NC}"
-read OPEN
-
-if [[ "$OPEN" == "s" || "$OPEN" == "S" ]]; then
-    am start -a android.intent.action.VIEW -d file:///sdcard/Download/
-    echo -e "${GREEN}Abrindo gerenciador de arquivos...${NC}"
-else
-    echo -e "${CYAN}Tudo certo! Você pode abrir /sdcard/Download pelo seu gerenciador de arquivos.${NC}"
-fi
+echo -e "${CYAN}Tudo certo! Use o gerenciador de arquivos do Android para acessar o arquivo.${NC}"
