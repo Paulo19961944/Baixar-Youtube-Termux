@@ -49,12 +49,12 @@ Execute o script:
 
 ## O que vai acontecer:
 
-**1. Você verá um menu com arte ASCII colorida.** <br></br>
-**2.Será solicitado o link do vídeo do YouTube.** <br></br>
-**3.Escolha o formato desejado: MP3 ou MP4.** <br></br>
-**4.O download será iniciado.** <br></br>
-**5.O arquivo será movido automaticamente para a pasta /sdcard/Download/.** <br></br>
-**6.Será perguntado se deseja abrir a pasta.**
+- Você verá um menu com arte ASCII colorida.
+- Será solicitado o link do vídeo do YouTube. 
+- Escolha o formato desejado: MP3 ou MP4.
+- O download será iniciado.
+- O arquivo será movido automaticamente para a pasta /sdcard/Download/.
+- Será perguntado se deseja abrir a pasta.
 
 
 ## 📁 Onde ficam os arquivos?
